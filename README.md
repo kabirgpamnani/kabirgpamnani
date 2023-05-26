@@ -1,4 +1,4 @@
-# **Hi all, I'm Kabir.**
+# **Hi, I'm Kabir.**
 
 ### I’m a rising junior at Tufts University studying Computer Science. Github is a place where I document my quest to learn new technologies, and reach my goals as a developer. I am always looking to learn something new!
 
